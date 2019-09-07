@@ -16,7 +16,7 @@ public class App {
 
             int n= Integer.parseInt(bufferedReader.readLine());
             System.out.println("Text  : " + message);
-            System.out.println("Key Value : " + n);
+            System.out.println("Key value : " + n);
             System.out.println("Encrypted message: " + Encryptation.encrypt(message, n));
         } catch (IOException e) {
             e.printStackTrace();

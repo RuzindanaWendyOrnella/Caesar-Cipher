@@ -1,0 +1,11 @@
+body{
+background-image:url("https://cdn4.vectorstock.com/i/1000x1000/17/73/tree-silhouette-with-flying-birds-vector-13631773.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+}
+.card{
+text-align:center;
+position:absolute;
+top:40%;
+left:35%;
+}

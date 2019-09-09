@@ -21,7 +21,6 @@ public class App {
             if(want.equals("decrypt")){
             System.out.println("Text  : " + message);
             System.out.println("Key value : " + n);
-//           System.out.println("Encrypted message: " + Encryptation.encrypt(message, n));
            System.out.println("Decrypted message: " + Decryptation.decrypt(message, n));}
             else if(want.equals("encrypt")){
                 System.out.println("Text  : " + message);

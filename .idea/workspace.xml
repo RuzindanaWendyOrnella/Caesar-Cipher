@@ -4,7 +4,6 @@
     <list default="true" id="cad1553b-aac3-4aca-8879-a240cc3078d7" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Ping Pong/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ping Pong/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Decryptation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../studenttracker/studenttracker.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
@@ -16,10 +15,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-caesar-cipher/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-caesar-cipher/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-caesar-cipher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-caesar-cipher/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Encryptation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Encryptation.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

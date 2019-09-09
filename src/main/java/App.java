@@ -16,11 +16,6 @@ public class App {
 
             try {
 
-
-
-
-
-
                 if (want.equals("decrypt")) {
                     System.out.println("Enter your word:");
                     message = bufferedReader.readLine();

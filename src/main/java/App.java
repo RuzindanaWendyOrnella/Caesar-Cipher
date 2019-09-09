@@ -9,7 +9,7 @@ public class App {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
         System.out.println("Enter a word:");
-        String message = null;
+        String message = "";
         try {
             message = bufferedReader.readLine();
             System.out.println("Enter a key value:");
@@ -17,7 +17,8 @@ public class App {
             int n= Integer.parseInt(bufferedReader.readLine());
             System.out.println("Text  : " + message);
             System.out.println("Key value : " + n);
-            System.out.println("Encrypted message: " + Encryptation.encrypt(message, n));
+           System.out.println("Encrypted message: " + Encryptation.encrypt(message, n));
+           System.out.println("Decrypted message: " + Decryptation.decrypt(message, n));
         } catch (IOException e) {
             e.printStackTrace();
         }

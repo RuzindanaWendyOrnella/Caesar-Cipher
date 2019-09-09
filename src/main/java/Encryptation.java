@@ -27,11 +27,11 @@ public static StringBuffer encrypt(String message, int n) {
 
     for (int i = 0; i < message.length(); i++) {
         if (Character.isUpperCase(message.charAt(i))) {
-            char ch = (char) (((int) message.charAt(i) +
+            char ch = (char) (( message.charAt(i) +
                     n - 65) % 26 + 65);
             result.append(ch);
         } else {
-            char ch = (char) (((int) message.charAt(i) +
+            char ch = (char) (( message.charAt(i) +
                     n - 97) % 26 + 97);
             result.append(ch);
         }
